@@ -1,4 +1,4 @@
-module github.com/mrfedorko/ssov1
+module github.com/mrfedorko/protos
 
 go 1.22.5
 
