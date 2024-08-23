@@ -1,4 +1,4 @@
-module github.com/mrfedorko/protos
+module github.com/mrFedorko/protos
 
 go 1.22.5
 
